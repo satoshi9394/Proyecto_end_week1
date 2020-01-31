@@ -1,0 +1,21 @@
+
+.container{
+    width: 90vw;
+}
+
+.img-footer{
+    height: 60px;
+    padding-left: 10px;
+}
+
+#footer-title{
+    margin: 0;
+}
+
+#footer{
+    padding-top: 10px;
+}
+
+#footer-row{
+    margin-bottom: 10px;
+}
