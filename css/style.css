@@ -1,3 +1,16 @@
+:root
+{
+    --verde-fuerte: rgb(43, 187, 84);
+    --celeste:      #1620A6;
+    --cyan-angel:         #00838F;
+    --cyan-dark:    #006972;
+
+}
+
+body
+{
+    background-color: var(--cyan-angel);
+}
 
 .container{
     width: 90vw;
